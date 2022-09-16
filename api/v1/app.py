@@ -1,5 +1,3 @@
-
-
 #!/usr/bin/python3
 """app.py"""
 from models import storage
